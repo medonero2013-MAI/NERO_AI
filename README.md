@@ -1,4 +1,4 @@
-# 🧠 Nero AI — مفهوم نيرو
+# 🧠 Nero AI — 
 
 ## 🎬 Demo
 [Watch Demo] https://www.youtube.com/shorts/acEIvlAuESM
